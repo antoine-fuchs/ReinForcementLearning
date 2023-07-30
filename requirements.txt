@@ -1,20 +1,6 @@
-# agent.py
 keras
-numpy
-
-# environment.py
-python-chess
-
-# learn.py
-RLC
-
-# notebook.ipynb
-numpy
-pandas
-google-colab
-
-# run.py
 numpy
 pandas
 matplotlib
 python-chess
+git+https://github.com/arjangroen/RLC.git
