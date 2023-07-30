@@ -6,3 +6,5 @@ In diesem Repo wird das Reinforcement Learning Notebook von ARJANGROEN mit Hyper
 Ein Spiel des optimalen Modell kann unter folgendem Link gefunden werden: https://lichess.org/study/cPkRUs1g
 ## Aufgabenteilung 
 Die meisten Aufgaben, also das Suchen und Finden von einer Umgebung und einem Agenten sowie das Verfassen der Dokumente, wurden durch Zusammenarbeit erledigt. Die einzige Aufgabenteilung ist beim Training erfolgt, als Antoine die Optimierungen für "agent.py" und Jasmina die Optimierungen für "learn.py" durchgeführt haben.
+
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/antoine-fuchs/ReinforcementLearning/blob/main/Chess_Gif.gif)https://github.com/antoine-fuchs/ReinforcementLearning/blob/main/Chess_Gif.gif)
