@@ -8,4 +8,5 @@ Ein Spiel des optimalen Modell kann unter folgendem Link gefunden werden: https:
 Die meisten Aufgaben, also das Suchen und Finden von einer Umgebung und einem Agenten sowie das Verfassen der Dokumente, wurden durch Zusammenarbeit erledigt. Die einzige Aufgabenteilung ist beim Training erfolgt, als Antoine die Optimierungen für "agent.py" und Jasmina die Optimierungen für "learn.py" durchgeführt haben.
 
 ![](https://github.com/antoine-fuchs/ReinforcementLearning/blob/main/Chess_Gif.gif)
+
 Das Gif stellt ein Spiel unseres besten Agenten dar.
